@@ -178,7 +178,7 @@ iframe,
   height: 240px;
 } */
 
-#icon-container-one {
+.icon-container-one {
   display: flex;
   align-items: center;
   height: 100%;
@@ -187,7 +187,7 @@ iframe,
   margin-bottom: 35px;
 }
 
-#icon-container-two {
+.icon-container-two {
   display: flex;
   align-items: center;
   height: 100%;
@@ -196,7 +196,7 @@ iframe,
   margin-bottom: 35px;
 }
 
-#icon-container-three {
+.icon-container-three {
   display: flex;
   align-items: center;
   height: 100%;
@@ -204,7 +204,7 @@ iframe,
   padding-right: 200px;
 }
 
-#icon-item {
+.icon-item {
   margin: auto;
   display: block;
 }
