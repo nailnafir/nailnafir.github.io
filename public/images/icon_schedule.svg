@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 64 64" id="schedule">
+    <path d="M50 24H10a2 2 0 0 1-2-2V12a2 2 0 0 1 2-2h40a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2zm-38-4h36v-6H12z"></path>
+    <path
+        d="M42 18a2 2 0 0 1-2-2V8a2 2 0 0 1 4 0v8a2 2 0 0 1-2 2zm-24 0a2 2 0 0 1-2-2V8a2 2 0 0 1 4 0v8a2 2 0 0 1-2 2z">
+    </path>
+    <path
+        d="M32 54H14a6 6 0 0 1-6-6V12a2 2 0 0 1 2-2h40a2 2 0 0 1 2 2v22a2 2 0 0 1-4 0V14H12v34a2 2 0 0 0 2 2h18a2 2 0 0 1 0 4z">
+    </path>
+    <path d="M42 58a14 14 0 1 1 14-14 14 14 0 0 1-14 14zm0-24a10 10 0 1 0 10 10 10 10 0 0 0-10-10z"></path>
+    <path d="M48 46h-6a2 2 0 0 1-2-2v-8h4v6h4z"></path>
+</svg>
